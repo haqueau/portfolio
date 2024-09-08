@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  border-bottom: 2px solid #61dafb;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
